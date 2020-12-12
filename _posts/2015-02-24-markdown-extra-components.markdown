@@ -1,7 +1,7 @@
 ---
 title: "Markdown Extra Components"
 layout: post
-published: true
+published: false
 #date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
