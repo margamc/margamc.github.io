@@ -9,7 +9,7 @@ category: blog
 author: marga
 description: Primer post
 ---
-Llevo más tiempo del que me gusta admitir dándole vueltas a la idea de <span class="evidence">crear un espacio</span>. Pero, _¿qué y para qué?_. 
+Llevo más tiempo del que me gusta admitir dándole vueltas a la idea de <span class="evidence">crear un espacio</span>. Pero, _¿qué y para qué?_ 
 
 ## El contenido
 Ciertamente soy bastante curiosa y hasta que empecé la universidad toqué aficiones de palos muy distintos. Por lo que el contenido que encontrarás aquí tocará muchísimas ramas del conocimiento humano como:
