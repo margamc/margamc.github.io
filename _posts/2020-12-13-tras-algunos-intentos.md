@@ -32,9 +32,9 @@ Si va a contener de todo un poco, pues que sirva también como página personal 
 
 Así que me decidí por una web, aunque inicialmente no quería realizar una inversión muy alta (aka 0€). Tampoco pelearme desde cero con html, css y demás lenguajes con los que mi experiencia es más bien poca. Así que buscando alternativas encuentro [GitHub Pages](https://pages.github.com/) hace casi un año.
 
-Y <span class="evidence">[tras algunos intentos](https://margamc.github.io/blog/tras-algunos-intentos)</span> aquí estamos. Sabiendo un poquito más de [Jekyll](https://jekyllrb.com/), aprendiendo a utilizar un tema distinto a los que GitHub Pages ofrece por defecto y habiendo descubierto que exiten editores online de contenido, como [Prose](https://prose.io/), que permiten visualizar el resultado __casi__ final. 
+Y <span class="evidence">[tras algunos intentos](https://margamc.github.io/tras-algunos-intentos)</span> aquí estamos. Sabiendo un poquito más de [Jekyll](https://jekyllrb.com/), aprendiendo a utilizar un tema distinto a los que GitHub Pages ofrece por defecto y habiendo descubierto que exiten editores online de contenido, como [Prose](https://prose.io/), que permiten visualizar el resultado __casi__ final. 
 
 
 
 > A poc a poc, tota pedra fa paret. 
-<div class="spoiler">Poco a poco toda piedra hace pared.</div>
+> <div class="spoiler">Poco a poco toda piedra hace pared.</div>
