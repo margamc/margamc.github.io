@@ -1,14 +1,13 @@
 ---
-title: "Test Post"
+title: Test Post
 layout: post
-published: true
-#date: 2020-12-12 14:40
+published: false
 image: /assets/images/my_profile.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+  - markdown
+  - components
+  - extra
 category: blog
 author: marga
 description: First test post in blog
