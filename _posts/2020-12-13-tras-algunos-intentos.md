@@ -36,4 +36,5 @@ Y <span class="evidence">[tras algunos intentos](https://margamc.github.io/blog/
 
 
 
-> A poc a poc, tota pedra fa paret. <div class="spoiler">Poco a poco toda piedra hace pared.</div>
+> A poc a poc, tota pedra fa paret. 
+<div class="spoiler">Poco a poco toda piedra hace pared.</div>
