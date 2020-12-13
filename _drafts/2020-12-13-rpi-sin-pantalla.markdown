@@ -13,3 +13,8 @@ author: marga
 description: Tutorial RPI sin pantalla
 ---
 
+	.
+	├── root            
+	│   ├── cmdline.txt
+	│   ├── ssh
+	│   └── ...    
