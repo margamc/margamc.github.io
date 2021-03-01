@@ -33,7 +33,7 @@ pagination:
 	
 		{% include pagination.html%}
 	{% else %}
-		{% assign items_grouped = paginator.posts | group_by: 'ref' %}
+		{% assign items_grouped = site.posts | group_by: 'ref' %}
 		{% for group in items_grouped %}
     		{% if group.items.size > 1 %}
         		{% assign post = group.items | where: "lang",page.lang | first %}
