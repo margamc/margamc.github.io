@@ -17,13 +17,8 @@ pagination:
 				{% endif %}
 			{% endif %}
 		{% endfor %} -->
-		{% assign items_grouped = paginator.posts | group_by: 'ref' %}
-		{% for group in items_grouped %}
-    		{% if group.items.size > 1 %}
-        		{% assign post = group.items | where: "lang",page.lang | first %}
-   			{% else %}
-        		{% assign post = group.items[0] %}
-    		{% endif %}
+		{% assign posts = site.posts | where: "lang",page.lang %}
+		{% for post in posts %}
 			{% if post.category == 'blog' %}
 				{% if post.hidden != true %}
 					{% include blog-post.html %}
